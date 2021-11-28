@@ -1,1 +1,3 @@
-# NLP---Sentiment-Analysis-for-Restaurant-Customers
+# NLP---Sentiment-Analysis-for-Restaurant-
+
+Ensuring customer satisfaction in the service sector is a very important issue in terms of maintaining the continuity of the enterprises. In order to measure customer satisfaction, customers' opinions about businesses can be evaluated and new action plans can be taken to ensure the satisfaction of our potential customers and existing customers. In this study, a sentiment analysis study was carried out on the comments of the customers who came to a restaurant in the service sector about the restaurant after the service they received. Our study was carried out using the logistic regression classification algorithm and random forest classification algorithm from machine learning algorithms.
